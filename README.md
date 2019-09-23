@@ -1,6 +1,15 @@
 # EDT TO ICAL
 
-### Usage
+
+## Installation
+
+Il faut créer un envirenoment virtuel puis exécuter la commande suivante :
+
+```
+pip install -r requirements.txt
+```
+
+## Usage
 
 ```
 usage: edtToIcal.py <StudentLogin> [OPTIONS]
